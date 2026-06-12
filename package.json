@@ -1,0 +1,26 @@
+{
+  "name": "muhium-zamil-vu-hub",
+  "version": "1.0.0",
+  "description": "Premium student review hub for Virtual University exams and papers",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Build script placeholder'",
+    "test": "echo 'Test script placeholder'"
+  },
+  "keywords": [
+    "education",
+    "exam-papers",
+    "student-hub",
+    "review-sharing",
+    "virtual-university"
+  ],
+  "author": "MUHIUM & ZAMIL",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/muhium-zamil-vu-hub"
+  },
+  "devDependencies": {}
+}
